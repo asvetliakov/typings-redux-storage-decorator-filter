@@ -1,0 +1,8 @@
+{
+  "name": "redux-storage-decorator-filter",
+  "main": "index.d.ts",
+  "homepage": "https://github.com/michaelcontento/redux-storage-decorator-filter",
+  "dependencies": {
+    "redux-storage": "github:asvetliakov/typings-redux-storage"
+  }
+}
